@@ -1,0 +1,100 @@
+{
+  "registrations": [
+    {
+      "id": "2",
+      "admissionDate": "22/10/2023",
+      "email": "jose@caju.com.br",
+      "employeeName": "José Leão",
+      "status": "APPROVED",
+      "cpf": "78502270001"
+    },
+    {
+      "id": "3",
+      "admissionDate": "15/11/2023",
+      "email": "ana@caju.com.br",
+      "employeeName": "Ana Paula",
+      "status": "APPROVED",
+      "cpf": "56473290021"
+    },
+    {
+      "id": "4",
+      "admissionDate": "10/11/2023",
+      "email": "maria@caju.com.br",
+      "employeeName": "Maria Clara",
+      "status": "APPROVED",
+      "cpf": "89347285012"
+    },
+    {
+      "id": "5",
+      "admissionDate": "01/12/2023",
+      "email": "paulo@caju.com.br",
+      "employeeName": "Paulo Santos",
+      "status": "REVIEW",
+      "cpf": "23456789010"
+    },
+    {
+      "id": "6",
+      "admissionDate": "30/11/2023",
+      "email": "rafael@caju.com.br",
+      "employeeName": "Rafael Lima",
+      "status": "REPROVED",
+      "cpf": "34567890121"
+    },
+    {
+      "id": "7",
+      "admissionDate": "28/11/2023",
+      "email": "lucas@caju.com.br",
+      "employeeName": "Lucas Silva",
+      "status": "APPROVED",
+      "cpf": "45678901232"
+    },
+    {
+      "id": "9",
+      "admissionDate": "20/11/2023",
+      "email": "renata@caju.com.br",
+      "employeeName": "Renata Souza",
+      "status": "REPROVED",
+      "cpf": "67890123454"
+    },
+    {
+      "id": "10",
+      "admissionDate": "15/11/2023",
+      "email": "marcos@caju.com.br",
+      "employeeName": "Marcos Vinicius",
+      "status": "REPROVED",
+      "cpf": "78901234565"
+    },
+    {
+      "id": "15",
+      "admissionDate": "01/11/2023",
+      "email": "bruno@caju.com.br",
+      "employeeName": "Bruno Costa",
+      "status": "REVIEW",
+      "cpf": "23456789010"
+    },
+    {
+      "id": "17",
+      "admissionDate": "25/10/2023",
+      "email": "eduardo@caju.com.br",
+      "employeeName": "Eduardo Ramos",
+      "status": "APPROVED",
+      "cpf": "45678901232"
+    },
+    {
+      "id": "18",
+      "admissionDate": "22/10/2023",
+      "email": "camila@caju.com.br",
+      "employeeName": "Camila Barreto",
+      "status": "REVIEW",
+      "cpf": "56789012343"
+    },
+    {
+      "id": "19",
+      "admissionDate": "20/10/2023",
+      "email": "ricardo@caju.com.br",
+      "employeeName": "Ricardo Tavares",
+      "status": "REVIEW",
+      "cpf": "67890123454"
+    }
+  ]
+}
